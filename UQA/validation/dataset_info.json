@@ -1,0 +1,62 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "uqa",
+  "dataset_size": 203197141,
+  "description": "",
+  "download_size": 33125127,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "is_impossible": {
+      "dtype": "bool",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer_start": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 236322268,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 177632419,
+      "num_examples": 124745,
+      "dataset_name": "uqa"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 25564722,
+      "num_examples": 16824,
+      "dataset_name": "uqa"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
