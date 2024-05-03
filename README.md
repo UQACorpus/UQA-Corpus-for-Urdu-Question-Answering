@@ -8,7 +8,7 @@ The UQA dataset consists of translated contexts, questions, and answers. It incl
 
 ### Download
 The dataset and fine-tuned models can be downloaded from the following link:
-- [UQA Dataset](https://huggingface.co/uqa)
+- [UQA Huggingface](https://huggingface.co/uqa)
 
 ## Code
 This repository includes scripts used in the translation process, dataset generation, and model benchmarks. The main components are:
