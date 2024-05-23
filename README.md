@@ -28,3 +28,7 @@ The following table summarizes the performance of various models tested on the U
 | XLM-RoBERTa     | 65.67%           | 78.00%   |
 | XLM-RoBERTa-Large | 72.24%         | 84.42%   |
 | XLM-RoBERTa-XL  | 74.56%           | 85.99%   |
+
+## Citiation
+
+Samee Arif, Sualeha Farid, Awais Athar, and Agha Ali Raza. 2024. [UQA: Corpus for Urdu Question Answering](https://aclanthology.org/2024.lrec-main.1497). In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)_, pages 17237–17244, Torino, Italia. ELRA and ICCL.
